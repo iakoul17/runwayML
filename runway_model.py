@@ -39,6 +39,7 @@
 import runway
 from runway.data_types import number, text, image
 from example_model import ExampleModel
+from test_video import 
 
 # Setup the model, initialize weights, set the configs of the model, etc.
 # Every model will have a different set of configurations and requirements.
